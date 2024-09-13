@@ -1,0 +1,2 @@
+# MentCare
+ The Mentcare system is a decentralized patient information system designed to support mental health care in a variety of settings. It balances the need for centralized data management with the requirement for local access and availability, particularly in areas with limited network connectivity. The system architecture is designed to ensure data privacy, security, and availability while meeting the specific needs of mental health care Providers.
